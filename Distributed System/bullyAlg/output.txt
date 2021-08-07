@@ -1,0 +1,41 @@
+Enter no. of process:
+6
+For process 1:
+Status:
+1
+Priority
+1
+For process 2:
+Status:
+1
+Priority
+2
+For process 3:
+Status:
+1
+Priority
+3
+For process 4:
+Status:
+1
+Priority
+4
+For process 5:
+Status:
+0
+Priority
+5
+For process 6:
+Status:
+0
+Priority
+6
+Which process will initiate election?
+3
+Election message sent from 3 to 4
+Election message sent from 3 to 5
+Election message sent from 3 to 6
+Election message sent from 4 to 5
+Election message sent from 4 to 6
+Election message sent from 5 to 6
+Final Coordinator is: 4
