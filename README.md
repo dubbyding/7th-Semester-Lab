@@ -4,9 +4,9 @@
 
 # Table of Contents
 
-    - [Distributed System](#distributed-system)
-    - [Digital Signal Processing and Analysis](#digital-signal-processing-and-analysis)
-    - [Computer Network](#computer-network)
+- [Distributed System](#distributed-system)
+- [Digital Signal Processing and Analysis](#digital-signal-processing-and-analysis)
+- [Computer Network](#computer-network)
 
 # Distributed System
 
