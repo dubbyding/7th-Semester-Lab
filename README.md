@@ -4,9 +4,9 @@
 
 # Table of Contents
 
-    - Distributed System
-    - Digital Signal Processing and Analysis
-    - Computer Network
+    - [Distributed System](#distributed-system)
+    - [Digital Signal Processing and Analysis](#digital-signal-processing-and-analysis)
+    - [Computer Network](#computer-network)
 
 # Distributed System
 
@@ -19,6 +19,8 @@
 ## Lab 4:- [Bully Algorithm](./Distributed-System/bullyAlg/src)
 
 ## Lab 5:- [Mutual Exclusion](./Distributed-System/mutualExec.py)
+
+## [Lab Report](./Distributed-System/labReport.pdf)
 
 # Digital Signal Processing and Analysis
 
@@ -46,3 +48,5 @@ circular convolution => y=cconv(x,h,N)
 
 N=max(l1,l2); Circular Convolution
 N=l1+l2-1; linear convolution using circular convolution
+
+# Computer Network
