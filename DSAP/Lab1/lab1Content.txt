@@ -1,7 +1,0 @@
-Write a MATLAB program to generate the following elementary signals:
-i) Unit Step Sequence
-ii) Unit Step Signal
-iii) Unit Ramp Signal
-iv) Sine Signal
-v) Cosine Signal
-vi) Exponential Signal
