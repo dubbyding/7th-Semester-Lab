@@ -10,15 +10,15 @@
 
 # Distributed System
 
-## Lab 1:- [RPC](./Distributed System/RPC/src)
+## Lab 1:- [RPC](./Distributed-System/RPC/src)
 
-## Lab 2:- [Lamport's Logical Clock](./Distributed System/lamport.c)
+## Lab 2:- [Lamport's Logical Clock](./Distributed-System/lamport.c)
 
-## Lab 3:- [RMI](./Distributed System/RMI/src)
+## Lab 3:- [RMI](./Distributed-System/RMI/src)
 
-## Lab 4:- [Bully Algorithm](./Distributed System/bullyAlg/src)
+## Lab 4:- [Bully Algorithm](./Distributed-System/bullyAlg/src)
 
-## Lab 5:- [Mutual Exclusion](./Distributed System/mutualExec.py)
+## Lab 5:- [Mutual Exclusion](./Distributed-System/mutualExec.py)
 
 # Digital Signal Processing and Analysis
 
