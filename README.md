@@ -20,7 +20,7 @@
 
 ## Lab 5:- [Mutual Exclusion](./Distributed-System/mutualExec.py)
 
-## [Lab Report](./Distributed-System/labReport.pdf)
+## [Lab Report](./Distributed-System/lab12345_Raj_32.pdf)
 
 # Digital Signal Processing and Analysis
 
@@ -48,5 +48,9 @@ circular convolution => y=cconv(x,h,N)
 
 N=max(l1,l2); Circular Convolution
 N=l1+l2-1; linear convolution using circular convolution
+
+## [Lab-3](./DSAP/Lab3)
+
+Fast Fourier Transform and Inverse Fourier Transform
 
 # Computer Network
