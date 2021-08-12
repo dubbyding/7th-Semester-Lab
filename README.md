@@ -7,6 +7,7 @@
 - [Distributed System](#distributed-system)
 - [Digital Signal Processing and Analysis](#digital-signal-processing-and-analysis)
 - [Computer Network](#computer-network)
+- [Data Mining](#data-mining)
 
 # Distributed System
 
@@ -54,3 +55,7 @@ N=l1+l2-1; linear convolution using circular convolution
 Fast Fourier Transform and Inverse Fourier Transform
 
 # Computer Network
+
+# Data Mining
+
+The [lab 2](./Data-mining) contains ipynb of using keras for implementing ANN.
