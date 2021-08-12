@@ -58,4 +58,4 @@ Fast Fourier Transform and Inverse Fourier Transform
 
 # Data Mining
 
-The [lab 2](./Data-mining) contains ipynb of using keras for implementing ANN.
+The [lab 2](./Data-Mining) contains ipynb of using keras for implementing ANN.
