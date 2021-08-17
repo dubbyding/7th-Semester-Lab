@@ -54,6 +54,12 @@ N=l1+l2-1; linear convolution using circular convolution
 
 Fast Fourier Transform and Inverse Fourier Transform
 
+## [Lab-4](./DSAP/Lab4)
+
+IRR and FRR filters
+
+2) Design and implementation of FIR filter (LP/HP) to meet given specifications using Windowing techinque
+
 # Computer Network
 
 # Data Mining
